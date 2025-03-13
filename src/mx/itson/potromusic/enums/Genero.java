@@ -13,6 +13,7 @@ public enum Genero {
     ROCK,
     COUNTRY,
     SALSA,
+    CRISTIANO_CONTEMPORIANO,
     OTRO
     
 }
